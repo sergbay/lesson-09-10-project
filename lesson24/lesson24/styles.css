@@ -1,6 +1,9 @@
 .container {
     width: 30%;
-    max-width: 1400px;
+    display: inline;
+    justify-content: space-between;
+    display: flex;
+
 }
 .header-inner{
     width: 100%;
@@ -30,6 +33,7 @@
 }
 h2 {
     margin-left: 100px;
+    display: inline;
 
 }
 .social {
@@ -39,37 +43,31 @@ h2 {
 .phone {
     margin-left: 75px;
 }
-.maistra {
+
+.header-social {
+    display: inline;
+    display: flex;
+}
+.header-phone {
+display: inline;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+}
+.tours {
+    justify-content: center;
+    margin-top: 350px;
+    display: flex;
+    text-align: center;
+}
+h1 {
     width: 240px;
     height: 55px;
-    left: 862px;
-    top: 23px;
-    background: #EFF3F6;
     border-radius: 2px;
 }
-.maistra2 {
-width: 145px;
-height: 20px;
-left: 882px;
-top: 40px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 20px;
-/* identical to box height */
-
-text-align: center;
-text-transform: uppercase;
-
-color: #373737;
-}
-.maistra3 {
-left: 0.1%;
-right: -0.1%;
-top: 0.1%;
-bottom: -0.08%;
-
-background: #FFFFFF;
+.maistra {
+    width: 55px;
+    height: 55px;
+    background-color: red;
+    border-radius: 2px solid red;
 }
