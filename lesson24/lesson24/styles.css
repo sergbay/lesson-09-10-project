@@ -160,9 +160,10 @@ border-radius: 2px;
     position: absolute;
     margin-top: 50px;
 width: 1440px;
-height: 80%;
+height: 60%;
 left: 0px;
 background: url(./maxresdefault\ \(1\)\ 2.png) no-repeat;
+display: flex;
 }
 .price1 {
     position: absolute;
@@ -204,4 +205,190 @@ line-height: 55px;
 text-transform: uppercase;
 
 color: #FFFFFF;
+}
+h2 {
+    position: absolute;
+width: 99px;
+height: 20px;
+left: 286px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+position: absolute;
+width: 99px;
+height: 20px;
+left: 286px;
+top: 495px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+}
+.rectangle1 {
+    position: absolute;
+    width: 1440px;
+    height: 250px;
+    left: 0px;
+    top: 660px;
+    background: #F8F8F8;
+}
+p {
+    position: absolute;
+width: 624px;
+height: 72px;
+left: 198px;
+top: 570px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+/* or 120% */
+color: #1D1D1D;
+}
+
+li {
+    position: absolute;
+width: 335px;
+height: 28px;
+left: 198px;
+top: 777px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+
+color: #777777;
+
+}
+.poslugy {
+    position: absolute;
+width: 370px;
+height: 198px;
+left: 949px;
+top: 687px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 66px;
+/* or 367% */
+
+
+color: #3D3D3D;
+}
+.icons1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 900px;
+    top: 800px;
+    font-style: normal;
+    font-size: 16px;
+    color: wheat;
+    border: wheat 4px dashed;
+    border-radius: 50px;
+}
+.text-icons1 {
+position: absolute;
+left: 150px;
+top: 750px;
+font-style: normal;
+font-size: 16px;
+color: wheat;
+}
+.icons2 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 900px;
+    top: 950px;
+    font-style: normal;
+    font-size: 16px;
+    color: wheat;
+    border: wheat 4px dashed;
+    border-radius: 50px
+}
+.icons3 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 900px;
+    top: 880px;
+    font-style: normal;
+    font-size: 16px;
+    color: wheat;
+     border: wheat 4px dashed;
+     border-radius: 50px;
+}
+.text-icons2 {
+    left: 150px;
+    top: 935px;
+    font-style: normal;
+    position: absolute;
+    font-size: 16px;
+    color: wheat;
+}
+.text-icons3 {
+    left: 150px;
+    position: absolute;
+    top: 830px;
+    font-style: normal;
+    font-size: 16px;
+    color: wheat;
+}
+
+h4 {
+    width: 182px;
+    height: 20px;
+    left: 242px;
+    top: 840px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    border: 2px black solid;
+    border-radius: 2px;
+    background-color: gray;
+    text-align: center;
+    
+    color: white;
+}
+h3 {
+width: 122px;
+height: 20px;
+left: 548px;
+top: 840px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+border: black 2px solid;
+border-radius: 2px;
+display: flex ;
+
+color: #969696;
 }
